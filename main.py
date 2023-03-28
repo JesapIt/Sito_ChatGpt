@@ -1,3 +1,3 @@
 import streamlit as st
 
-sito = st.textinput('Inserisci il nome del sito del quale vuoi avere informazioni')
+sito = st.text_input('Inserisci il nome del sito del quale vuoi avere informazioni')
