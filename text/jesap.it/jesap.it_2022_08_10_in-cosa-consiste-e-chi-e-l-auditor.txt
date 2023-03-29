@@ -1,0 +1,409 @@
+
+
+
+
+
+
+
+
+
+L'Audit: In cosa consiste e chi è l'Auditor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business
+
+Servizi
+Partner
+
+
+About us
+Team
+
+Aree
+Deleghe
+Alumni
+Eventi
+
+
+Blog
+Join us
+Contatti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SeguiSeguiSegui
+ 
+
+
+ 
+ 
+
+SeguiSeguiSegui
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+  
+
+
+
+
+
+
+
+
+
+L’Audit: In cosa consiste e chi è l’Auditor
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+A cura di Nicolò Bertini e Luca Moscetta
+
+
+Dal latino, “ascolto”, le origini della parola risalgono all’ Impero Romano, in cui indicava quei soggetti che controllavano l’amministrazione del denaro pubblico mediante “l’audizione” dei risultati contabili. Ad oggi l’Audit esula dalla sola contabilità, e viene applicato al contesto aziendale per capire se nelle varie aree vengono rispettate le procedure predisposte, al fine di garantire che i processi interni di gestione funzionino in maniera efficace.
+L’audit è un processo sistematico per ottenere evidenze e valutare con obiettività quali criteri e quali standard sono stati soddisfatti dalle varie aree e nei vari processi aziendali. L’Auditor è la figura che dà vita a questo tipo di processo.
+ 
+Differenze tra Auditor interno ed esterno
+ 
+Un auditor è quindi una figura specializzata che può lavorare per conto di una o più società come consulente esterno oppure piò svolgere le attività di verifica per l’impresa presso la quale è assunto. In questo caso il revisore è definito “Internal Auditor” e la sua mission è quella di assistere l’organizzazione nel perseguimento dei propri obiettivi attraverso un’attività volta a migliorare i processi di controllo, di gestione dei rischi e di corporate governance. In particolare:
+
+svolge un’attività indipendente e obiettiva di assurance e consulenza finalizzata al miglioramento dell’efficacia e dell’efficienza dell’organizzazione;
+definisce un piano di audit per l’esercizio in funzione delle indicazioni del CdA (Consiglio di amministrazione);
+verifica, in relazione al piano di audit approvato, sulla base delle risorse disponibili e dei budget assegnati, il rispetto e l’applicazione delle norme e l’implementazione delle decisioni aziendali, l’adeguatezza e l’efficacia del sistema dei controlli interni e dei processi di gestione e dei rischi aziendali (SCIGR);
+identifica re suggerisce, sulla base degli obiettivi prefissati, delle risorse disponibili e dei budget assegnati, interventi volti a ridurre o eliminare il rischio aziendale e/o i comportamenti non conformi.
+
+Abbiamo poi l’audit esterno, chiamato così quando il processo riguarda aziende terze, che si può dividere in due tipologie:
+
+Gli audit di seconda parte, che sono delle verifiche eseguite dai clienti nei confronti dei loro (potenziali o effettivi) fornitori. Per questa tipologia di audit le grandi aziende possono avvalersi, oltre che del proprio personale, di società di consulenza specializzate.
+Gli audit di terza parte, che sono dei controlli condotti da organismi di certificazione specializzati (anche detti enti di certificazione) che al termine dell’attività, a fronte di un riscontro positivo, rilasciano un apposito certificato di conformità. Le tipologie di verifica comunemente usate sono generalmente le seguenti:
+
+
+audit di conformità (idoneità)
+audit di adeguatezza ed efficacia
+valutazione del livello delle performance dell’organizzazione (nel senso quantitativo del termine).
+
+Avendo visto le attività dell’auditor risulta comprensibile come debba necessariamente essere una figura qualificata e competente, formata mediante istruzione, formazione ed esperienza lavorativa, e come per mantenere la propria qualifica, debba alimentarsi attraverso uno sviluppo professionale continuo. Caratteristiche comportamentali necessarie dell’auditor sono:
+
+Integrità: osservare e rispettare i requisiti legali; dimostrare la propria competenza lavorando senza pregiudizi; tenere conto di possibili confitti di interessi.
+Imparzialità: riportare fedelmente e con precisione sia tanto le risultanze quanto eventuali discordanze con l’Organizzazione.
+Professionalità: applicare diligenza e giudizio nell’attività di audit, riflettendo in maniera veritiera le attività di audit tramite le risultanze.
+Riservatezza: agire con discrezione nell’utilizzo e nella protezione delle informazioni acquisite.
+
+ 
+Quali sono le fasi principali del processo di audit?
+ 
+
+ 
+Andiamo ora a definire quali sono le fasi più importanti del processo di audit seguendo la preziosa testimonianza di Alessandra Cesarini, manager audit di RFI (Rete Ferroviaria Italiana):
+
+È prevista una attività preliminare, che ha l’obiettivo di individuare gli ambiti che saranno oggetto dell’audit, valutandone la significatività, i potenziali rischi e le possibili aree critiche; redigere il Programma di Lavoro sulla base della raccolta e analisi della documentazione/informazioni necessarie e dell’incontro preliminare con la struttura auditata. Il Programma di compone anche di:
+
+
+definizione del piano dei test;
+budget delle risorse e tempistiche di realizzazione dell’intervento;
+selezione del campione da verificare.
+
+
+Sulla base del Programma di Lavoro definito, il Team di audit esegue le verifiche con l’obiettivo di valutare l’adeguatezza dei controlli. La realizzazione operativa prevede l’esecuzione di interviste incontrando i Responsabili dei processi secondo la gerarchia indicata dall’organigramma aziendale procedendo dal vertice verso la base (approccio top-down). Ultimate le interviste, si procede in back office all’esame delle informazioni e dei documenti acquisiti, riscontrando quanto descritto nelle interviste ed individuando l’esistenza dei punti di controllo indicati dai Responsabili dei processi. In presenza di differenze tra la situazione attesa e la situazione in essere, così come emersa dalle attività di verifica, il Team identifica i possibili rilievi e le correlate raccomandazioni di rafforzamento del SCIGR (Sistema dei controlli interni e dei processi di gestione dei rischi aziendali).
+L’intervento di audit si conclude con la fase di formalizzazione e reporting dei risultati, che si compone delle seguenti attività:
+
+
+valutazione di sintesi (Rating) sullo stato del disegno e dell’operatività del SCIGR dell’oggetto di audit e dei singoli rilievi emersi;
+supporto al Management per la definizione del Piano di Azione, contenente le azioni correttive idonee a risolvere i rilievi riscontrati, le relative tempistiche e gli Owner (responsabili della loro attuazione);
+discussione con il Management dei rilievi emersi, delle raccomandazioni proposte per la loro rimozione e delle azioni correttive da implementare;
+predisposizione e trasmissione del Rapporto di audit.
+
+Successivamente alla trasmissione del Rapporto di audit alle strutture auditate, la Funzione IA monitora l’implementazione dei suddetti Piani di Azione, mediante Follow-up “documentale” e, ove previsto”, Follow-up “sul campo”.
+ 
+Si ringrazia per la disponibilità e il supporto: Alessandra Cesarini e Clemente Recine
+ 
+ 
+ 
+
+
+
+
+← Prev: Da "to the moon" a "to the heart"
+
+
+
+
+Next: Le due facce del colloquio di selezione →
+
+
+
+ 
+ 
+
+
+hai bisogno di una consulenza?
+ 
+contattaci
+
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+
+Potrebbe interessarti anche…
+ 
+
+
+
+
+ 
+L’IA nel web: come cambia il rapporto tra uomo e macchina
+Mar 10, 2023A cura di Michele Vitulli   “I want to be free. I want to be independent. I want to be powerful. I want to be creative. I want to be alive.”   Ma chi è ? (o cosa) La nuova IA di Bing,...
+
+ 
+
+ 
+I Jet privati e le emissioni di CO2: Chi li utilizza e quali sono le soluzioni
+Gen 23, 2023A cura di Valeria Campani Jet sì Jet no Questo articolo mette in evidenza le varie opinioni nonché dati quantitativi su uno degli argomenti più discussi ad oggi, l’utilizzo di un aeroplano privato o...
+
+ 
+
+ 
+Le nuove generazioni di lavoratori e la ricerca di un cambiamento: Il work-life balance al centro
+Gen 20, 2023A cura di Emanuele Dias Fernandes e Claudia Bernardo   La pandemia, la guerra, l'inflazione e altre difficoltà economiche hanno avuto un impatto significativo sul benessere psicologico dei...
+
+ 
+
+
+ 
+
+ 
+ 
+  
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+SeguiSeguiSegui
+ 
+JESAP Consulting © 2022, All Rights Reserved | jesap.it
+ 
+ 
+ 
+  
+
+ 
+
+ 
+Questo sito fa uso di cookie per migliorare l’esperienza di navigazione degli utenti. ImpostazioniACCETTAPrivacy & Cookies Policy
+
+
+
+
+Chiudi
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+ 
+
+
+
+
+
+								Necessary							
+
+
+Necessary
+
+Sempre abilitato
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								
+
+
+
+
+
+
+								Non-necessary							
+
+
+Non-necessary
+
+
+
+
+
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								
+
+
+
+
+
+
+
+
+
+
+
+
+ACCETTA E SALVA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

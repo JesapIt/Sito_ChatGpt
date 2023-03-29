@@ -141,7 +141,9 @@ def crawl(url):
                 queue.append(link)
                 seen.add(link)
 
-crawl(full_url)
+estrai = st.button('estrai')
+if estrai:
+    crawl(full_url)
 
 
 ##### fine primo blocco
@@ -379,7 +381,9 @@ def answer_question(
 
 
 #### ultimo blocco
+domanda = st.text_input("Scrivi la tua domanda")
 
-answer_question(df, question="Di cosa parla l'articolo di Michele Vitulli?", debug=False)
+if domanda:
+    st.write(answer_question(df, question=domanda, debug=False))
 
 #### fine ultimo blocco

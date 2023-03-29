@@ -1,0 +1,397 @@
+
+
+
+
+
+
+
+
+
+Da "to the moon" a "to the heart"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business
+
+Servizi
+Partner
+
+
+About us
+Team
+
+Aree
+Deleghe
+Alumni
+Eventi
+
+
+Blog
+Join us
+Contatti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SeguiSeguiSegui
+ 
+
+
+ 
+ 
+
+SeguiSeguiSegui
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+  
+
+
+
+
+
+
+
+
+
+Da “to the moon” a “to the heart”
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+Il tracollo di Terra (LUNA): Dall’attacco combinato al difficile rapporto con le banche
+In un mondo volatile come quello delle criptovalute, oscillare tra l’inferno e il paradiso è pane quotidiano per i suoi utilizzatori. Un simile vertiginoso crollo all’interno di una realtà a così elevata capitalizzazione non si era mai visto prima. Ci riferiamo alla perdita di valore repentina e apparentemente inspiegabile dell’ecosistema Terra LUNA, la quale è stata un vero proprio shock per tutto il mercato crypto.  
+Ma facciamo un passo indietro, cos’è la blockchain?
+Come riporta IBM “la blockchain consiste in un registro condiviso e immutabile che serve per registrare le transazioni, tenere traccia degli asset e consolidare un rapporto di fiducia”. Nata ormai da una decade grazie a Satoshi Nakamoto, pseudonimo del fondatore di Bitcoin, ha nel tempo attratto un crescente numero di investitori e sviluppatori tra i quali la coreana Terra Labs.
+Nello specifico, Terra è una blockchain per pagamenti globali e decentralizzati, che usa LUNA come criptovaluta centrale del proprio ecosistema.
+Terra nasce dall’idea di Do Kwon e David Shin, con l’intenzione di introdurre una stablecoin che avesse l’obiettivo di un’adozione di massa e di mixare i vantaggi della tecnologia blockchain con le valute FIAT. La funzione di LUNA è di garantire il legame di 1 UST=1 $, e viceversa. (Ad esempio se si vogliono creare 100 UST, ed il valore di LUNA è 50 $, l’algoritmo brucerà 2 token LUNA.)
+ 
+Ma cos’è successo?
+Le ragioni che hanno portato all’inesorabile crollo di LUNA sono riconducibili ad un attacco combinato all’algoritmo di TERRA.
+Ma andiamo con ordine: secondo Forbes, il 7 Maggio, vengono prelevati circa 5 Miliardi di UST e venduti sul mercato. Questa operazione provoca una reazione a catena negli investitori di LUNA, che entrano in panic sell causando inevitabilmente un deprezzamento del token LUNA. Tutto ciò ha portato ad un deprezzamento  di UST rispetto al dollaro, di conseguenza l’ecosistema ha venduto le riserve di BTC e aumentato la tokenomics dei propri acquirenti, acuendo così la paura negli investitori.
+Tutto ciò ha visto, in soli 5 giorni, il valore di LUNA crollare da 65 $ a 0.0001342 $ e UST dall’ancoraggio a 0,15 $.
+ 
+Cosa sono le stablecoin?
+Comprese le ragioni che hanno portato al crollo dell’algoritmo che sostiene LUNA, è utile analizzare e comprendere cosa sono le stablecoin, cercando di capire soprattutto le motivazioni che hanno spinto così tanti utenti a investire nel progetto.
+La traduzione letterale di stablecoin è “valuta stabile”; Nello specifico, le stablecoin sono delle criptovalute che mantengono il loro valore ancorato a quello di un altro asset (solitamente una valuta FIAT o una commodity come l’oro e/o i metalli classificabili come bene rifugio). Il discorso dell’”ancoraggio” tende appunto a rendere il prezzo più stabile e a limitarne l’alta volatilità, elemento che rende molto appetibile un potenziale investimento. Per il resto, le stablecoin mantengono invariate le restanti caratteristiche di qualunque altra criptovaluta: decentralizzazione, struttura blockchain e sistemi criptati. Per sostenere una tale impiego di risorse, le stablecoin sono generalmente collateralizzate: ciò sta a significare che se una stablecoin è sostenuta da un asset o supportata da una materia prima, sarà mantenuto in riserva un controvalore del bene (ad esempio dollari o oro) per garantire il valore di ogni unità di stablecoin rilasciata.
+Come però già accennato in precedenza, i dollari americani (o qualsiasi altra valuta) non sono gli unici asset utilizzabili per favorire lo sviluppo delle stablecoin, ma vengono utilizzati in totale quattro tipologie di collateralizzazione:
+
+FIAT-backed: opzione più utilizzata, è il caso di Tether-> 1 USDT= 1 $
+Crypto-backed: In questo caso, non sono le valute a sostenere il valore, bensì altre criptovalute. L’esempio è DAI, che utilizza come collaterale un mix di criptovalute come ETH, WBTC e stablecoin come appunto USDT.
+non-collateralized o algorithmic: Non è presente alcun tipo di asset, ma è uno specifico algoritmo a sostenere la stablecoin, è il caso di UST.
+Commodity-backed: collateralizzate con un bene reale, come l’oro.
+
+ 
+Stablecoin: quali sono e a cosa servono
+Le stablecoin possono sembrare all’apparenza delle criptovalute quasi identiche tra di esse. In realtà non è così, perché ogni valuta viene collateralizzata in modo diverso e di conseguenza ciascuna coin ha caratteristiche proprie.
+Abbiamo già nominato Tether USDT: è attualmente la terza criptovaluta più capitalizzata, dopo i giganti BTC ed ETH, ed è scambiabile su tutti gli exchange utilizzabili. Presenta tuttavia alcune criticità: gli utenti lamentano scarsa trasparenza, ma soprattutto questi ultimi non hanno potere sulle decisioni aziendali, in quanto USDT è interamente centralizzato.
+Molto simile USD Coin: Attualmente si trova al quarto posto per capitalizzazione, e come USDT è centralizzata e collateralizzata al Dollaro. La differenza tra le due sta nella trasparenza, che è uno dei punti di forza del progetto USDC.
+L’utilizzo più semplice e comune è quello delle stablecoin come valuta di scambio, quindi per compravendita di prodotti e/o servizi. Ma se analizziamo il fenomeno nell’ottica di un investimento, scopriremo che in un portafoglio equilibrato le stablecoin non possono mancare, in quanto garantiscono una certa diminuzione del rischio grazie alla loro stabilità. Il loro punto di forza è la possibilità di avere degli APY (Annualised Percentage Yield) che arrivano fino al 20%, percentuale introvabile nella finanza tradizionale. Ciò è reso possibile grazie alla DEFI (finanza decentralizzata), tramite la quale gli utenti possono prendere in prestito del denaro, e che verrà restituito con gli interessi.
+ 
+Il futuro delle stablecoin
+Ci sono delle date importanti che hanno segnato la storia dell’essere umano. 685 A.C. conio delle prime monete metalliche; XIX secolo creazione delle prime cartamonete; anni ‘50 del XX secolo creazione della prima carta di credito.
+Da 10 anni a questa parte le criptovalute, e con loro le stablecoin, vogliono fare il loro ingresso come nuova svolta epocale nell’utilizzo quotidiano dell’uomo.
+La loro tecnologia permette l’elaborazione istantanea, la sicurezza, la privacy dei pagamenti, ed un costo per transazione ben minore dei metodi tradizionali.
+Nonostante la tecnologia sia giovane e presenti ampi margini di crescita, le stesse istituzioni centrali hanno in progetto un loro utilizzo e regolamentazione. Secondo l’Institute of Electrical and Electronic Engineers, l’86% delle banche centrali a livello globale sta esplorando la possibilità di introdurre valute digitali.
+ 
+Inquinamento rispetto al settore bancario
+Ad oggi, però, tenere saldo il focus sull’impatto ambientale di una nuova tecnologia è centrale per l’appeal della stessa. È infatti stato un argomento criticato aspramente anche dagli uomini più potenti del mondo, Elon Musk in prima fila. 
+Valutiamo però i dati che abbiamo a disposizione per fare un’analisi oggettiva: nel settore bancario è certamente più complesso valutare l’inquinamento, l’unico dato quantitativo disponibile è l’energia utilizzata, pari a 700 TWh, ben 5 volte quella usata per il mining della capostipite del settore, BTC. Questo dato ci da un quadro di quanto l’intero ecosistema sia sostenibile, considerando anche che per il 39% tale energia proviene interamente da fonti rinnovabili.
+Nonostante tali dati siano molto incoraggianti, c’è stata un’evoluzione del settore per migliorare ancor di più nell’ottica della sostenibilità. La creazione dei blocchi per la verifica delle transazioni, nelle crypto di seconda e terza generazione, non viene sostenuta tramite complessi calcoli e spreco di molta energia (Proof of Work). I validatori possono, grazie al sistema Proof of Stake, creare nuovi blocchi per il solo fatto di detenere un ragguardevole numero di token.
+Ciò risolve il problema energetico, ma sposta l’attenzione sulla mancata decentralizzazione, ponendo così al centro l’ancora irrisolto trade-off sostenibilità-centralizzazione.
+ 
+Fonti:
+https://blog.accademiadeldesign.com/criptovalute-perche-inquinano/#:~:text=L’impatto%20delle%20criptovalute%20sull’ambiente&text=Le%20emissioni%20di%20CO2,Giordania%20o%20lo%20Sri%20Lanka.
+https://www.criptovaluta.it/16415/le-banche-consumano-5-volte-piu-di-bitcoin
+https://youngplatform.com/blog/news/terra-luna-crollo-cosa-succede-adesso/
+https://www.flowe.com/blog/finance/metodi-di-pagamento-evoluzione/
+https://www.agendadigitale.eu/cittadinanza-digitale/pagamenti-digitali/stablecoin-le-ragioni-del-successo-le-sfide-da-affrontare-le-normative-in-vigore/
+https://www.ilsole24ore.com/art/le-stablecoin-sono-canarino-miniera-criptovalute-AEfndnr?refresh_ce=1
+ 
+ 
+ 
+
+
+
+
+← Prev: L'evoluzione del food delivery
+
+
+
+
+Next: L'Audit: In cosa consiste e chi è l'Auditor →
+
+
+
+ 
+ 
+
+
+hai bisogno di una consulenza?
+ 
+contattaci
+
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+
+Potrebbe interessarti anche…
+ 
+
+
+
+
+ 
+L’IA nel web: come cambia il rapporto tra uomo e macchina
+Mar 10, 2023A cura di Michele Vitulli   “I want to be free. I want to be independent. I want to be powerful. I want to be creative. I want to be alive.”   Ma chi è ? (o cosa) La nuova IA di Bing,...
+
+ 
+
+ 
+I Jet privati e le emissioni di CO2: Chi li utilizza e quali sono le soluzioni
+Gen 23, 2023A cura di Valeria Campani Jet sì Jet no Questo articolo mette in evidenza le varie opinioni nonché dati quantitativi su uno degli argomenti più discussi ad oggi, l’utilizzo di un aeroplano privato o...
+
+ 
+
+ 
+Le nuove generazioni di lavoratori e la ricerca di un cambiamento: Il work-life balance al centro
+Gen 20, 2023A cura di Emanuele Dias Fernandes e Claudia Bernardo   La pandemia, la guerra, l'inflazione e altre difficoltà economiche hanno avuto un impatto significativo sul benessere psicologico dei...
+
+ 
+
+
+ 
+
+ 
+ 
+  
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+SeguiSeguiSegui
+ 
+JESAP Consulting © 2022, All Rights Reserved | jesap.it
+ 
+ 
+ 
+  
+
+ 
+
+ 
+Questo sito fa uso di cookie per migliorare l’esperienza di navigazione degli utenti. ImpostazioniACCETTAPrivacy & Cookies Policy
+
+
+
+
+Chiudi
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+ 
+
+
+
+
+
+								Necessary							
+
+
+Necessary
+
+Sempre abilitato
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								
+
+
+
+
+
+
+								Non-necessary							
+
+
+Non-necessary
+
+
+
+
+
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								
+
+
+
+
+
+
+
+
+
+
+
+
+ACCETTA E SALVA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
