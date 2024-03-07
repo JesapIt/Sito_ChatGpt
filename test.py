@@ -4,7 +4,7 @@ import numpy as np
 from openai.embeddings_utils import distances_from_embeddings, cosine_similarity
 import openai
 
-openai.api_key = "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"
+openai.api_key = "<API_KEY>"
 
 
 
