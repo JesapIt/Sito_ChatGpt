@@ -273,7 +273,7 @@ df.n_tokens.hist()
 
 #### settimo blocco
 import openai
-openai.api_key = "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"
+openai.api_key = "<API_KEY>"
 
 df['embeddings'] = df.text.apply(lambda x: openai.Embedding.create(input=x, engine='text-embedding-ada-002')['data'][0]['embedding'])
 df.to_csv('processed/embeddings.csv')
